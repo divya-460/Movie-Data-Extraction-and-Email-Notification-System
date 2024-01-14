@@ -8,8 +8,8 @@ The data extraction process involves scraping information such as movie title, d
 To orchestrate the ETL (Extract, Transform, Load) process and schedule monthly updates, the project leverages Apache Airflow. Airflow allows for the automation of data extraction and notification tasks, ensuring that users receive timely and relevant information about upcoming Bollywood movies.
 
 Technologies Used
-> Python
-> BeautifulSoup
-> MySQL
-> Apache Airflow
-> HTML/CSS
+Python
+BeautifulSoup
+MySQL
+Apache Airflow
+HTML/CSS
